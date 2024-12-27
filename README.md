@@ -1,3 +1,3 @@
-# ae-motion-implementation
+# AE Motion
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/leopold16/ae-motion-implementation)
+A re-design of the https://www.ae-motion.com/ website. 
